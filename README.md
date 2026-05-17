@@ -50,23 +50,13 @@ I build backend applications, Telegram bots, and automation tools using asynchro
 
 ## 📊 GitHub Stats
 
-<p>
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=mindfract11&show_icons=true&theme=github_dark&hide_border=true" 
-  />
-  
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=github_dark&hide_border=true" 
-  />
-</p>
+<div align="center">
 
----
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mindfract11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-## 📈 Activity Graph
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=github_dark&hide_border=true" />
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mindfract11&theme=github-dark&hide_border=true)](https://github.com/mindfract11)
+</div>
 
 ---
 
