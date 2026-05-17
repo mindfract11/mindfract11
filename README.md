@@ -72,6 +72,7 @@ Here are a few development challenges I am actively pursuing. Check back often t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0" height="150" alt="top langs card" />
 </p>
 
+
 ### Contribution Graph
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindfract11&theme=github-dark&hide_border=true&bg_color=111&title_color=2CA5E0" alt="contribution graph" />
