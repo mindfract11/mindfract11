@@ -68,13 +68,13 @@ Here are a few development challenges I am actively pursuing. Check back often t
 
 ### Real-Time GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0&icon_color=2CA5E0" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0" height="150" alt="top langs card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mindfract11&show_icons=true&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0&icon_color=2CA5E0" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0" height="150" alt="top langs card" />
 </p>
 
 ### Contribution Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&bg_color=111&title_color=2CA5E0" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindfract11&theme=github-dark&hide_border=true&bg_color=111&title_color=2CA5E0" alt="contribution graph" />
 </p>
 
 * 🛠️ Architecting intelligent, scalable Telegram bot interfaces.
