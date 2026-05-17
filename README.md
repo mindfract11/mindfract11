@@ -1,5 +1,10 @@
 ## Hi there 👋
+## 📬 Connect with me / Связь со мной:
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aspiring_developer2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
+[![X](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Illia_slov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illia.slov.dev@gmail.com)
 <!--
 **mindfract11/mindfract11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
