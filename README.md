@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 📬 Connect with me / Связь со мной:
+## 📬 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aspiring_developer2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
