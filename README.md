@@ -1,7 +1,7 @@
 # Hi there, I'm Illia Slovitskyi! 👋
 ### Aspiring Python / Backend Developer & Automation Enthusiast 🚀
 
-I'm a passionate self-taught developer focused on building stable, scalable backend systems, intelligent automation tools, and integrated Telegram bots. My journey is about mastering asynchronous Python to create powerful, reliable applications.
+I am a passionate self-taught developer focused on building stable, scalable backend systems, intelligent automation tools, and integrated Telegram bots. My journey is about mastering asynchronous Python to create powerful, reliable applications.
 
 ---
 
@@ -28,6 +28,7 @@ I'm a passionate self-taught developer focused on building stable, scalable back
 <p align="left">
   <a href="https://t.me/aspiring_developer2" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://www.linkedin.com/in/illia-slovitskyi-a692883b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -43,21 +44,21 @@ I'm a passionate self-taught developer focused on building stable, scalable back
 
 ## 🎯 Pinned Challenges
 
-Here are a few development challenges I am actively pursuing. Check back often to see my progress!
+Here are the key development milestones I focus on across my projects:
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Python%20Backend%20Mastery-COMPLETED-28a745?style=for-the-badge" alt="Backend Mastery Card" />
+      <img src="https://img.shields.io/badge/Database%20Architecture-ACTIVE-2CA5E0?style=for-the-badge" alt="Database Card" />
       <br />
-      <b>Task 1: SQLALchemy 2.0 DB Schema Design</b>
-      <p>Designing a robust One-to-Many and Many-to-Many database schema using SQLAlchemy 2.0 with full async support.</p>
+      <b>Async DB & Schema Design</b>
+      <p>Designing robust schemas using SQLAlchemy 2.0 and managing data layers in PostgreSQL backend applications.</p>
     </td>
     <td width="50%">
-      <img src="https://img.shields.io/badge/CodeCrafters%20Challenge-IN%20PROGRESS-ffc107?style=for-the-badge" alt="CodeCrafters Challenge Card" />
+      <img src="https://img.shields.io/badge/API%20Integration-ACTIVE-2CA5E0?style=for-the-badge" alt="API Card" />
       <br />
-      <b>Task 2: Build a Cryptocurrency Price Monitor</b>
-      <p>Creating an async Python app that fetches real-time data from a REST API and stores it in a containerized PostgreSQL database.</p>
+      <b>REST API & Automation</b>
+      <p>Building reliable, asynchronous HTTP clients with HTTPX to integrate third-party services and monitors into Telegram bots.</p>
     </td>
   </tr>
 </table>
@@ -72,29 +73,11 @@ Here are a few development challenges I am actively pursuing. Check back often t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0" height="150" alt="top langs card" />
 </p>
 
-
 ### Contribution Graph
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindfract11&theme=github-dark&hide_border=true&bg_color=111&title_color=2CA5E0" alt="contribution graph" />
 </p>
 
-* 🛠️ Architecting intelligent, scalable Telegram bot interfaces.
-* ⚡ Deep diving into async Python and database pool management.
-* 🐳 Advanced Dockerization of mult-service backend systems.
-
-
-
-<!--
-**mindfract11/mindfract11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ Developing production-ready Telegram bot microservices.
+- ⚡ Deep diving into async flows, concurrency, and API rate limits.
+- 🐳 Packing server applications into standalone Docker containers.
