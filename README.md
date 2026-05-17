@@ -1,4 +1,4 @@
-```md
+
 # Hi, I'm Illia Slovitskyi 👋
 
 ### Python Backend Developer
@@ -52,4 +52,4 @@ Backend developer focused on asynchronous Python applications, Telegram bots, an
 - LinkedIn — https://linkedin.com/in/illia-slovitskyi-a692883b6
 - X — https://x.com/Illia_slov
 - Email — illia.slov.dev@gmail.com
-```
+
