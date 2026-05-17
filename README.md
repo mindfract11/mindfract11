@@ -6,10 +6,7 @@
 [![X](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Illia_slov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illia.slov.dev@gmail.com)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindfract11&show_icons=true&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0&icon_color=2CA5E0" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=dark&hide_border=true&bg_color=111&title_color=2CA5E0" height="150" alt="top langs card" />
-</p>
+
 <!--
 **mindfract11/mindfract11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
