@@ -1,29 +1,36 @@
-# Illia Slovitskyi | Asynchronous Python Engineer
+# Illia Slovitskyi | Python Backend Developer
 
-Backend developer engineering high-performance APIs, robust automation, and scalable event-driven systems using asynchronous Python. Ready to deploy clean, optimized code and bring immediate value to production-ready teams.
+Asynchronous Python developer focused on building clean, efficient backend systems, Telegram bots, and automation tools. Active problem solver and open-source contributor.
 
 ---
 
-## 🛠️ Production-Ready Stack
+## 📊 My Coding Activity
 
-| Layer | Technologies & Core Competencies |
+📈 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=mindfract11&color=blue&style=flat-square)  
+🥋 **Codewars:** ![Codewars](https://www.codewars.com/users/mindfract11/badges/micro)
+
+---
+
+## 🛠️ Tech Stack & Competencies
+
+| Layer | Technologies & Tools |
 | :--- | :--- |
-| **Core & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, Pydantic, HTTPX |
-| **Data & Storage** | PostgreSQL, SQLAlchemy 2.0 (Async Engine), Alembic, Redis (Caching/Queues) |
-| **DevOps & Infra** | Docker, Docker Compose, Linux, Git, CI/CD Pipeline Automation |
+| **Backend & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, Pydantic, HTTPX |
+| **Databases** | PostgreSQL, SQLAlchemy 2.0 (Async), Alembic, Redis (Caching) |
+| **DevOps & Workflow** | Docker, Docker Compose, Git, Linux basics |
 
 ---
 
-## ⚡ Engineering Mindset & Focus
+## 🎯 What I Do & Focus On
 
-* **High-Performance Async:** Writing non-blocking code, managing event loops efficiently, and building resilient concurrent systems.
-* **Database Optimization:** Designing clean relational schemas, writing optimized async queries, handling migrations, and leveraging Redis for high-speed caching.
-* **Architecture First:** Adhering to SOLID principles, writing maintainable layered architecture, and eliminating technical debt early.
-* **Automation & Delivery:** Containerizing applications for seamless environment parity and automating workflows.
+* **Async Application Development:** Writing non-blocking backend code and building Telegram automation using `Aiogram 3.x`.
+* **Database Management:** Designing relational models, working with async ORM (SQLAlchemy), and managing schema migrations via Alembic.
+* **Code Reliability:** Solving algorithmic challenges daily to improve logic and optimization skills.
+* **Containerization:** Packaging applications into Docker environments for consistent deployment.
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <table width="100%">
   <tr>
@@ -34,13 +41,18 @@ Backend developer engineering high-performance APIs, robust automation, and scal
       <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" width="100%"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindfract11&theme=github_dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📬 Connect & Collaborate
+## 📬 Contact Me
 
-If your team needs a fast-learning, backend-focused engineer who deeply cares about code quality, performance, and system reliability:
+I am looking for an internship or junior position where I can contribute to real-world tasks and grow under technical mentorship:
 
 * **Telegram:** [@aspiring_developer2](https://t.me/aspiring_developer2)
 * **LinkedIn:** [Illia Slovitskyi](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
