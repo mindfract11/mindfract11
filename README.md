@@ -1,40 +1,25 @@
-# Illia Slovitskyi | Python Backend Developer
+# Illia Slovitskyi | Asynchronous Python Engineer
 
-Backend Developer specializing in asynchronous Python, database design, and building scalable services. Looking for an Internship or Junior Backend Developer position.
+Backend developer engineering high-performance APIs, robust automation, and scalable event-driven systems using asynchronous Python. Ready to deploy clean, optimized code and bring immediate value to production-ready teams.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Production-Ready Stack
 
-| Domain | Technologies & Tools |
+| Layer | Technologies & Core Competencies |
 | :--- | :--- |
-| **Backend & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, HTTPX, Pydantic |
-| **Databases & ORM** | PostgreSQL, SQLAlchemy 2.0, Alembic, Redis |
-| **DevOps & Tools** | Docker, Docker Compose, Git, GitHub Actions (CI/CD) |
+| **Core & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, Pydantic, HTTPX |
+| **Data & Storage** | PostgreSQL, SQLAlchemy 2.0 (Async Engine), Alembic, Redis (Caching/Queues) |
+| **DevOps & Infra** | Docker, Docker Compose, Linux, Git, CI/CD Pipeline Automation |
 
 ---
 
-## 🏗️ Projects (Portfolio)
+## ⚡ Engineering Mindset & Focus
 
-> Replace these placeholders with your actual projects. Use the "What it does -> Stack -> Impact" framework.
-
-### 🔹 [Main Project Name](repository_link)
-*A brief description of the project (e.g., Asynchronous service for automating business workflows).*
-* **Stack:** FastAPI, SQLAlchemy 2.0, PostgreSQL, Docker, Redis.
-* **Key Achievements:** Implemented async architecture, optimized SQL queries (reduced endpoint response time by X%), and configured database migrations using Alembic.
-
-### 🔹 [Telegram Bot Name](repository_link)
-*A brief description (e.g., Feature-rich Telegram bot for task management and team collaboration).*
-* **Stack:** Aiogram 3.x, PostgreSQL, HTTPX.
-* **Key Achievements:** Designed robust FSM (Finite State Machine) architectures, integrated third-party REST APIs via HTTPX, and built custom middlewares for logging and access control.
-
----
-
-## 📈 Professional Focus & Growth
-
-* **Architecture:** Studying Clean Architecture, design patterns, and SOLID principles to write maintainable code.
-* **Optimization:** Deep diving into profiling asynchronous code, query optimization, and indexing in PostgreSQL.
-* **CI/CD:** Automating testing pipelines and deployment workflows using GitHub Actions.
+* **High-Performance Async:** Writing non-blocking code, managing event loops efficiently, and building resilient concurrent systems.
+* **Database Optimization:** Designing clean relational schemas, writing optimized async queries, handling migrations, and leveraging Redis for high-speed caching.
+* **Architecture First:** Adhering to SOLID principles, writing maintainable layered architecture, and eliminating technical debt early.
+* **Automation & Delivery:** Containerizing applications for seamless environment parity and automating workflows.
 
 ---
 
@@ -53,9 +38,9 @@ Backend Developer specializing in asynchronous Python, database design, and buil
 
 ---
 
-## 📬 Contact Me
+## 📬 Connect & Collaborate
 
-If you are looking for a dedicated backend developer who can quickly adapt to production workflows, write clean code, and deliver results:
+If your team needs a fast-learning, backend-focused engineer who deeply cares about code quality, performance, and system reliability:
 
 * **Telegram:** [@aspiring_developer2](https://t.me/aspiring_developer2)
 * **LinkedIn:** [Illia Slovitskyi](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
