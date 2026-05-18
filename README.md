@@ -1,32 +1,32 @@
-# Illia Slovitskyi | Python Backend Developer
+# Illia Slovitskyi | Junior Python Backend Developer
 
-Backend developer focused on building clean, efficient backend applications, Telegram bots, and automation tools using asynchronous Python. Ready to contribute to real-world projects and grow within a production team.
+I am a motivated Junior/Intern Backend Developer specializing in asynchronous Python. Currently focusing on building clean APIs, Telegram bots, and automation tools. I am deeply passionate about backend engineering, love solving complex problems, and am looking for an opportunity to grow under technical mentorship within a production team.
 
 ---
 
-## 📊 My GitHub Activity
+## 📊 GitHub Activity & Progress
 
 📈 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=mindfract11&color=blue&style=flat-square)  
-
+🌱 **Current Status:** Actively learning, writing code daily, and open to internship opportunities!
 
 ---
 
-## 🛠️ Tech Stack & Competencies
+## 🛠️ Tech Stack & Tools I Use
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Backend & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, Pydantic, HTTPX |
 | **Databases** | PostgreSQL, SQLAlchemy 2.0 (Async Engine), Alembic, Redis |
-| **DevOps & Workflow** | Docker, Docker Compose, Git, Linux basics |
+| **DevOps & Workflow** | Docker, Docker Compose, Git, GitHub, Linux basics |
 
 ---
 
-## 🎯 Focus & Development
+## 🎯 My Focus & What I am Eager to Learn
 
-* **Asynchronous Systems:** Developing non-blocking backend services and building advanced Telegram automation with `Aiogram 3.x`.
-* **Database Design:** Designing relational schemas, writing optimized async queries, and managing migrations via Alembic.
-* **Containerization:** Packaging applications into Docker containers to ensure consistent development and deployment environments.
-* **Code Quality:** Writing clean, readable code adhering to PEP 8, SOLID principles, and OOP.
+* **Asynchronous Architecture:** Mastering non-blocking code and building efficient event-driven systems.
+* **Database Optimization:** Learning how to design scalable database schemas, optimize async queries, and handle migrations properly.
+* **Production Best Practices:** Constantly improving code quality by studying OOP, SOLID principles, and Clean Architecture.
+* **CI/CD & DevOps:** Deepening my knowledge in Docker and learning how to automate deployments.
 
 ---
 
@@ -52,7 +52,7 @@ Backend developer focused on building clean, efficient backend applications, Tel
 
 ## 📬 Contact Me
 
-If you are looking for a dedicated and fast-learning junior/intern backend developer who is ready to dive into your tasks:
+If your team is looking for a dedicated, fast-learning intern who cares about code quality and is ready to give 100% to real tasks:
 
 * **Telegram:** [@aspiring_developer2](https://t.me/aspiring_developer2)
 * **LinkedIn:** [Illia Slovitskyi](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
