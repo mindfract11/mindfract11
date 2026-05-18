@@ -1,75 +1,62 @@
+# Illia Slovitskyi | Python Backend Developer
 
-# Hi, I'm Illia Slovitskyi 👋
-
-### Python Backend Developer
-
-I build backend applications, Telegram bots, and automation tools using asynchronous Python.
-
----
-
-## 🚀 About Me
-
--  Focused on Python backend development
--  Learning async architecture and scalable systems
--  Building Telegram bots with Aiogram 3.x
--  Working with PostgreSQL and SQLAlchemy
--  Containerizing applications with Docker
--  Continuously improving backend and DevOps skills
+Backend Developer specializing in asynchronous Python, database design, and building scalable services. Looking for an Internship or Junior Backend Developer position.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Asyncio](https://img.shields.io/badge/Asyncio-111111?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram_3.x-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-00A699?style=flat-square)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square)
-
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, HTTPX, Pydantic |
+| **Databases & ORM** | PostgreSQL, SQLAlchemy 2.0, Alembic, Redis |
+| **DevOps & Tools** | Docker, Docker Compose, Git, GitHub Actions (CI/CD) |
 
 ---
 
-## 📌 Current Focus
+## 🏗️ Projects (Portfolio)
 
-- Backend architecture
-- Async programming
-- REST API integrations
-- Telegram bot development
-- Docker deployment
+> Replace these placeholders with your actual projects. Use the "What it does -> Stack -> Impact" framework.
 
----
+### 🔹 [Main Project Name](repository_link)
+*A brief description of the project (e.g., Asynchronous service for automating business workflows).*
+* **Stack:** FastAPI, SQLAlchemy 2.0, PostgreSQL, Docker, Redis.
+* **Key Achievements:** Implemented async architecture, optimized SQL queries (reduced endpoint response time by X%), and configured database migrations using Alembic.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mindfract11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+### 🔹 [Telegram Bot Name](repository_link)
+*A brief description (e.g., Feature-rich Telegram bot for task management and team collaboration).*
+* **Stack:** Aiogram 3.x, PostgreSQL, HTTPX.
+* **Key Achievements:** Designed robust FSM (Finite State Machine) architectures, integrated third-party REST APIs via HTTPX, and built custom middlewares for logging and access control.
 
 ---
 
-## 📫 Contact
+## 📈 Professional Focus & Growth
 
-- Telegram: https://t.me/aspiring_developer2
-- LinkedIn: https://www.linkedin.com/in/illia-slovitskyi-a692883b6/
-- X: https://x.com/Illia_slov
-- Email: illia.slov.dev@gmail.com
+* **Architecture:** Studying Clean Architecture, design patterns, and SOLID principles to write maintainable code.
+* **Optimization:** Deep diving into profiling asynchronous code, query optimization, and indexing in PostgreSQL.
+* **CI/CD:** Automating testing pipelines and deployment workflows using GitHub Actions.
 
 ---
 
-## ⚡ Fun Fact
+## 📊 GitHub Analytics
 
-I enjoy building automation tools and improving system reliability.
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mindfract11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mindfract11&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" width="100%"/>
+    </td>
+  </tr>
+</table>
 
+---
+
+## 📬 Contact Me
+
+If you are looking for a dedicated backend developer who can quickly adapt to production workflows, write clean code, and deliver results:
+
+* **Telegram:** [@aspiring_developer2](https://t.me/aspiring_developer2)
+* **LinkedIn:** [Illia Slovitskyi](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
+* **Email:** [illia.slov.dev@gmail.com](mailto:illia.slov.dev@gmail.com)
