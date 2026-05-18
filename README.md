@@ -1,13 +1,13 @@
 # Illia Slovitskyi | Python Backend Developer
 
-Asynchronous Python developer focused on building clean, efficient backend systems, Telegram bots, and automation tools. Active problem solver and open-source contributor.
+Backend developer focused on building clean, efficient backend applications, Telegram bots, and automation tools using asynchronous Python. Ready to contribute to real-world projects and grow within a production team.
 
 ---
 
-## 📊 My Coding Activity
+## 📊 My GitHub Activity
 
 📈 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=mindfract11&color=blue&style=flat-square)  
-🥋 **Codewars:** ![Codewars](https://www.codewars.com/users/mindfract11/badges/micro)
+🚀 **Total Contributions:** Подтянется автоматически в блоке ниже 👇
 
 ---
 
@@ -16,17 +16,17 @@ Asynchronous Python developer focused on building clean, efficient backend syste
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Backend & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, Pydantic, HTTPX |
-| **Databases** | PostgreSQL, SQLAlchemy 2.0 (Async), Alembic, Redis (Caching) |
+| **Databases** | PostgreSQL, SQLAlchemy 2.0 (Async Engine), Alembic, Redis |
 | **DevOps & Workflow** | Docker, Docker Compose, Git, Linux basics |
 
 ---
 
-## 🎯 What I Do & Focus On
+## 🎯 Focus & Development
 
-* **Async Application Development:** Writing non-blocking backend code and building Telegram automation using `Aiogram 3.x`.
-* **Database Management:** Designing relational models, working with async ORM (SQLAlchemy), and managing schema migrations via Alembic.
-* **Code Reliability:** Solving algorithmic challenges daily to improve logic and optimization skills.
-* **Containerization:** Packaging applications into Docker environments for consistent deployment.
+* **Asynchronous Systems:** Developing non-blocking backend services and building advanced Telegram automation with `Aiogram 3.x`.
+* **Database Design:** Designing relational schemas, writing optimized async queries, and managing migrations via Alembic.
+* **Containerization:** Packaging applications into Docker containers to ensure consistent development and deployment environments.
+* **Code Quality:** Writing clean, readable code adhering to PEP 8, SOLID principles, and OOP.
 
 ---
 
@@ -52,7 +52,7 @@ Asynchronous Python developer focused on building clean, efficient backend syste
 
 ## 📬 Contact Me
 
-I am looking for an internship or junior position where I can contribute to real-world tasks and grow under technical mentorship:
+If you are looking for a dedicated and fast-learning junior/intern backend developer who is ready to dive into your tasks:
 
 * **Telegram:** [@aspiring_developer2](https://t.me/aspiring_developer2)
 * **LinkedIn:** [Illia Slovitskyi](https://www.linkedin.com/in/illia-slovitskyi-a692883b6/)
