@@ -9,12 +9,12 @@ I build backend applications, Telegram bots, and automation tools using asynchro
 
 ## 🚀 About Me
 
-- 🐍 Focused on Python backend development
-- ⚡ Learning async architecture and scalable systems
-- 🤖 Building Telegram bots with Aiogram 3.x
-- 🗄️ Working with PostgreSQL and SQLAlchemy
-- 🐳 Containerizing applications with Docker
-- 📚 Continuously improving backend and DevOps skills
+-  Focused on Python backend development
+-  Learning async architecture and scalable systems
+-  Building Telegram bots with Aiogram 3.x
+-  Working with PostgreSQL and SQLAlchemy
+-  Containerizing applications with Docker
+-  Continuously improving backend and DevOps skills
 
 ---
 
