@@ -7,7 +7,7 @@ Backend developer focused on building clean, efficient backend applications, Tel
 ## 📊 My GitHub Activity
 
 📈 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=mindfract11&color=blue&style=flat-square)  
-🚀 **Total Contributions:** Подтянется автоматически в блоке ниже 👇
+
 
 ---
 
