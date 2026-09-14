@@ -16,12 +16,12 @@ I am a motivated Junior/Intern Backend Developer specializing in asynchronous Py
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Backend & Async** | Python 3.11+, Asyncio, FastAPI, Aiogram 3.x, Pydantic, HTTPX |
-| **Databases** | PostgreSQL, SQLAlchemy 2.0 (Async Engine), Alembic, Redis |
+| **Databases** | PostgreSQL, SQLAlchemy 2.0 (Async Engine) |
 | **DevOps & Workflow** | Docker, Docker Compose, Git, GitHub, Linux basics |
 
 ---
 
-## 🎯 My Focus & What I am Eager to Learn
+## 🎯 My Focus
 
 * **Asynchronous Architecture:** Mastering non-blocking code and building efficient event-driven systems.
 * **Database Optimization:** Learning how to design scalable database schemas, optimize async queries, and handle migrations properly.
