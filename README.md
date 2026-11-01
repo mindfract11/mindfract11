@@ -2,92 +2,69 @@
   <img src="assets/banner.svg" width="100%" alt="Illia — Python Backend Developer"/>
 </p>
 
-<h2 align="center">Python Backend Developer in Progress</h2>
+<h2 align="center">Aspiring Python Backend Developer</h2>
 
 <p align="center">
-  Building projects. Learning through practice. Understanding how things work under the hood.
+  Student & self-taught developer interested in backend engineering, asynchronous programming and software development.
 </p>
 
 <p align="center">
   <a href="https://github.com/mindfract11">
     <img src="https://img.shields.io/badge/GitHub-mindfract11-181717?style=flat-square&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Learning-27272a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Development-Learning%20by%20Building-10b981?style=flat-square" />
 </p>
 
 ---
 
-### `01` / Tech Stack
-
-**Languages**
+### `01` / Backend & Async
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
+  <img src="https://img.shields.io/badge/Asyncio-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiogram-3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-2D2D2D?style=for-the-badge&logo=pydantic&logoColor=E92063" />
+  <img src="https://img.shields.io/badge/HTTPX-2D2D2D?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Backend & Database**
+### `02` / Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
   <img src="https://img.shields.io/badge/SQLAlchemy-2D2D2D?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
-  <img src="https://img.shields.io/badge/FastAPI-Exploring-2D2D2D?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Async%20Engine-SQLAlchemy-2D2D2D?style=for-the-badge" />
 </p>
 
-**Tools & Environment**
+### `03` / DevOps & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,pycharm,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### `04` / Additional Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode&theme=dark" />
 </p>
 
 ---
 
-### `02` / Selected Projects
+### `05` / About
 
-**Price Tracker** — `In Development`
+I enjoy understanding how software works under the hood, exploring backend architecture and turning ideas into working applications.
 
-A personal project for tracking product prices and monitoring target prices.
-
-- Python backend
-- PostgreSQL database
-- SQLAlchemy ORM
-- Planned: FastAPI, JavaScript frontend and Telegram notifications
-
-**Telegram Bots**
-
-Small automation projects integrating external APIs and scheduled notifications.
-
-- Python
-- API integrations
-- Automated notifications
-
----
-
-### `03` / Current Focus
-
-```text
-Python          ██████████  Backend development
-SQLAlchemy      ███████░░░  ORM & database management
-PostgreSQL      ███████░░░  Database fundamentals
-JavaScript      █████░░░░░  Frontend fundamentals
-FastAPI         ░░░░░░░░░░  Exploring
-```
-
-*Learning progress, not skill ratings.*
-
----
-
-### `04` / Development Philosophy
+My approach is based on learning through practice, solving problems and continuously improving my engineering skills.
 
 <p align="center">
-  <b>LEARN → BUILD → DEBUG → UNDERSTAND → IMPROVE</b>
+  <b>LEARN &nbsp; → &nbsp; BUILD &nbsp; → &nbsp; DEBUG &nbsp; → &nbsp; UNDERSTAND</b>
 </p>
-
-I use AI as a learning and debugging tool, while working towards writing and understanding more code independently.
 
 ---
 
-### `05` / Contact
+### `06` / Contact
 
 <p>
   <a href="mailto:illia.slov.dev@gmail.com">
@@ -102,5 +79,5 @@ I use AI as a learning and debugging tool, while working towards writing and und
 </p>
 
 <p align="center">
-  <sub>Building one project at a time.</sub>
+  <sub>Building knowledge. One line at a time.</sub>
 </p>
