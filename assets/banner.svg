@@ -115,7 +115,7 @@
   <rect x=".5" y=".5" width="959" height="319" rx="20"
         fill="none" stroke="url(#border)"/>
 
-  <!-- Status -->
+
   <g class="rise">
     <rect x="48" y="40" width="218" height="32" rx="16"
           fill="#fff" fill-opacity=".055"
@@ -129,7 +129,6 @@
     </text>
   </g>
 
-  <!-- Name -->
   <g class="rise r2">
     <text x="46" y="158" class="sans"
           font-size="64" font-weight="700"
@@ -158,7 +157,7 @@
       </text>
 
       <text class="line l3" x="92" y="255">
-        Python · JavaScript · SQL<tspan class="cursor" fill="#34d399"> ▌</tspan>
+        Python · Asyncio · SQL<tspan class="cursor" fill="#34d399"> ▌</tspan>
       </text>
     </g>
   </g>
