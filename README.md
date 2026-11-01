@@ -60,7 +60,6 @@ I make a conscious effort to write code myself, understand every part of what I 
 
 Programming is more than just a subject I'm studying — it's something I'm genuinely obsessed with and want to dedicate myself to.
 
-**Always learning.
 
 
 
