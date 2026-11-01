@@ -54,9 +54,13 @@
 
 ### `05` / About
 
-I enjoy understanding how software works under the hood, exploring backend architecture and turning ideas into working applications.
+I'm genuinely passionate about programming and highly motivated to grow as a developer. I want to learn, build and improve as quickly and effectively as I can.
 
-My approach is based on learning through practice, solving problems and continuously improving my engineering skills.
+I make a conscious effort to write code myself, understand every part of what I build and solve problems independently. I don't always manage to do everything on my own, and learning can be challenging, but I keep pushing myself to understand more rather than simply looking for quick solutions.
+
+Programming is more than just a subject I'm studying — it's something I'm genuinely obsessed with and want to dedicate myself to.
+
+**Always learning.
 
 
 
