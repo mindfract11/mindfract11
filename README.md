@@ -58,9 +58,7 @@ I enjoy understanding how software works under the hood, exploring backend archi
 
 My approach is based on learning through practice, solving problems and continuously improving my engineering skills.
 
-<p align="center">
-  <b>LEARN &nbsp; → &nbsp; BUILD &nbsp; → &nbsp; DEBUG &nbsp; → &nbsp; UNDERSTAND</b>
-</p>
+
 
 ---
 
