@@ -1,206 +1,106 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Illia - Python Backend Developer"/>
+ <p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Illia — Python Backend Developer"/>
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320">
-  <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".045"/>
-    </pattern>
+<h2 align="center">Python Backend Developer in Progress</h2>
 
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#fff" stop-opacity=".15"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </radialGradient>
+<p align="center">
+  Building projects. Learning through practice. Understanding how things work under the hood.
+</p>
 
-    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#fff" stop-opacity=".2"/>
-      <stop offset="1" stop-color="#10b981" stop-opacity=".45"/>
-    </linearGradient>
+<p align="center">
+  <a href="https://github.com/mindfract11">
+    <img src="https://img.shields.io/badge/GitHub-mindfract11-181717?style=flat-square&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning-27272a?style=flat-square" />
+</p>
 
-    <linearGradient id="name">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#a1a1aa"/>
-    </linearGradient>
+---
 
-    <clipPath id="card">
-      <rect width="960" height="320" rx="20"/>
-    </clipPath>
-  </defs>
+### `01` / Tech Stack
 
-  <style>
-    .mono {
-      font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-    }
+**Languages**
 
-    .sans {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-    }
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php&theme=dark" />
+</p>
 
-    .rise {
-      animation: rise .8s ease-out both;
-    }
+**Backend & Database**
 
-    .r2 { animation-delay: .15s; }
-    .r3 { animation-delay: .3s; }
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-2D2D2D?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
+  <img src="https://img.shields.io/badge/FastAPI-Exploring-2D2D2D?style=for-the-badge&logo=fastapi&logoColor=009688" />
+</p>
 
-    @keyframes rise {
-      from {
-        opacity: 0;
-        transform: translateY(12px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
+**Tools & Environment**
 
-    .dot {
-      animation: pulse 2s ease-in-out infinite;
-    }
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,pycharm,vscode&theme=dark" />
+</p>
 
-    @keyframes pulse {
-      50% { opacity: .3; }
-    }
+---
 
-    .float {
-      animation: float 5s ease-in-out infinite alternate;
-    }
+### `02` / Selected Projects
 
-    @keyframes float {
-      to { transform: translateY(-6px); }
-    }
+**Price Tracker** — `In Development`
 
-    .line {
-      opacity: 0;
-      animation: typing 12s steps(38, end) infinite;
-    }
+A personal project for tracking product prices and monitoring target prices.
 
-    .l2 { animation-delay: 4s; }
-    .l3 { animation-delay: 8s; }
+- Python backend
+- PostgreSQL database
+- SQLAlchemy ORM
+- Planned: FastAPI, JavaScript frontend and Telegram notifications
 
-    @keyframes typing {
-      0%, 3% {
-        opacity: 0;
-        clip-path: inset(0 100% 0 0);
-      }
-      5%, 27% {
-        opacity: 1;
-        clip-path: inset(0 0 0 0);
-      }
-      32%, 100% {
-        opacity: 0;
-        clip-path: inset(0 0 0 0);
-      }
-    }
+**Telegram Bots**
 
-    .cursor {
-      animation: blink 1s steps(1) infinite;
-    }
+Small automation projects integrating external APIs and scheduled notifications.
 
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
-  </style>
+- Python
+- API integrations
+- Automated notifications
 
-  <!-- Background -->
-  <g clip-path="url(#card)">
-    <rect width="960" height="320" fill="#09090b"/>
+---
 
-    <circle cx="170" cy="80" r="190" fill="url(#glow)"/>
+### `03` / Current Focus
 
-    <circle cx="830" cy="250" r="180"
-            fill="#10b981" opacity=".09"/>
+```text
+Python          ██████████  Backend development
+SQLAlchemy      ███████░░░  ORM & database management
+PostgreSQL      ███████░░░  Database fundamentals
+JavaScript      █████░░░░░  Frontend fundamentals
+FastAPI         ░░░░░░░░░░  Exploring
+```
 
-    <rect width="960" height="320" fill="url(#grid)"/>
-  </g>
+*Learning progress, not skill ratings.*
 
-  <rect x=".5" y=".5" width="959" height="319" rx="20"
-        fill="none" stroke="url(#border)"/>
+---
 
-  <!-- Status -->
-  <g class="rise">
-    <rect x="48" y="40" width="218" height="32" rx="16"
-          fill="#fff" fill-opacity=".055"
-          stroke="#fff" stroke-opacity=".1"/>
+### `04` / Development Philosophy
 
-    <circle class="dot" cx="66" cy="56" r="4" fill="#10b981"/>
+<p align="center">
+  <b>LEARN → BUILD → DEBUG → UNDERSTAND → IMPROVE</b>
+</p>
 
-    <text x="80" y="61" class="mono"
-          font-size="13" fill="#d4d4d8">
-      learning · building · improving
-    </text>
-  </g>
+I use AI as a learning and debugging tool, while working towards writing and understanding more code independently.
 
-  <!-- Name -->
-  <g class="rise r2">
-    <text x="46" y="158" class="sans"
-          font-size="64" font-weight="700"
-          letter-spacing="-2" fill="url(#name)">
-      Hey, I'm Illia.
-    </text>
+---
 
-    <text x="50" y="194" class="sans"
-          font-size="17" fill="#a1a1aa">
-      Aspiring Python Backend Developer
-    </text>
-  </g>
+### `05` / Contact
 
-  <!-- Typewriter -->
-  <g class="rise r3 mono" font-size="18">
-    <text x="48" y="255" fill="#71717a">~</text>
-    <text x="66" y="255" fill="#34d399">❯</text>
+<p>
+  <a href="mailto:illia.slov.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/illia-slovitskyi-a692883b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://t.me/aspiring_developer2">
+    <img src="https://img.shields.io/badge/Telegram-Message-181717?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  </a>
+</p>
 
-    <g fill="#f4f4f5">
-      <text class="line" x="92" y="255">
-        building real projects<tspan class="cursor" fill="#34d399"> ▌</tspan>
-      </text>
-
-      <text class="line l2" x="92" y="255">
-        learning to code independently<tspan class="cursor" fill="#34d399"> ▌</tspan>
-      </text>
-
-      <text class="line l3" x="92" y="255">
-        Python · JavaScript · SQL<tspan class="cursor" fill="#34d399"> ▌</tspan>
-      </text>
-    </g>
-  </g>
-
-  <!-- Project terminal -->
-  <g class="rise r3">
-    <g class="float">
-      <rect x="640" y="56" width="272" height="166" rx="14"
-            fill="#18181b" fill-opacity=".9"
-            stroke="#fff" stroke-opacity=".1"/>
-
-      <circle cx="662" cy="78" r="5" fill="#ff5f57"/>
-      <circle cx="680" cy="78" r="5" fill="#febc2e"/>
-      <circle cx="698" cy="78" r="5" fill="#28c840"/>
-
-      <text x="890" y="82" text-anchor="end"
-            class="mono" font-size="11" fill="#71717a">
-        ~/projects
-      </text>
-
-      <line x1="640" y1="96" x2="912" y2="96"
-            stroke="#fff" stroke-opacity=".08"/>
-
-      <g class="mono" font-size="14" fill="#d4d4d8">
-        <circle cx="664" cy="124" r="4" fill="#34d399"/>
-        <text x="680" y="129">price-tracker</text>
-
-        <circle cx="664" cy="159" r="4" fill="#34d399"/>
-        <text x="680" y="164">telegram-bots</text>
-
-        <circle cx="664" cy="194" r="4" fill="#34d399"/>
-        <text x="680" y="199">learning-by-building</text>
-      </g>
-    </g>
-  </g>
-
-  <!-- Footer -->
-  <text x="912" y="282" text-anchor="end"
-        class="mono" font-size="12" fill="#52525b">
-    one step at a time.
-  </text>
-</svg>
+<p align="center">
+  <sub>Building one project at a time.</sub>
+</p>
